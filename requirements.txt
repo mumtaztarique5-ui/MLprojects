@@ -1,0 +1,48 @@
+# ===== CORE UTILITIES =====
+numpy==1.26.4
+pandas==2.2.2
+pyarrow==11.0.0
+openpyxl==3.1.5
+scipy==1.13.1
+joblib==1.4.2
+tqdm==4.66.5
+
+# ===== VISUALIZATION =====
+matplotlib==3.8.4
+seaborn==0.13.2
+plotly==5.23.0
+altair==5.3.0
+missingno==0.5.2
+wordcloud==1.9.3
+
+# ===== DATA PREP & FEATURE ENGINEERING =====
+scikit-learn==1.4.2
+category-encoders==2.6.3
+imbalanced-learn==0.12.3
+feature-engine==1.6.2
+
+
+# ===== INTERACTIVE DASHBOARDS / WEB APPS =====
+streamlit==1.39.0
+dash==2.18.1
+flask==3.0.3
+plotly-express==0.4.1
+
+# ===== DATA ACCESS & UTILITIES =====
+requests==2.32.3
+beautifulsoup4==4.12.3
+lxml==5.2.2
+
+# ===== NOTEBOOK & DEV TOOLS =====
+jupyter==1.1.1
+ipykernel==6.29.5
+notebook==7.2.1
+
+# ===== OPTIONAL (EXPLAINABILITY & MODEL INTERPRETATION) =====
+shap==0.44.1
+lime==0.2.0.1
+
+# ===== CLEANUP & VERSION CONTROL =====
+pip==25.3
+setuptools==75.1.0
+wheel==0.44.0

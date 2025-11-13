@@ -1,0 +1,9 @@
+0
+age
+bmi
+is_smoker
+bmi_smoker_interaction
+age_bmi_interaction
+bmi_sq
+age_sq
+log_bmi
